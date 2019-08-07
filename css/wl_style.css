@@ -26,3 +26,16 @@ body{
 img{
     max-width: 100%
 }
+
+.navbar-brand {
+    color: white !important;
+    
+  }
+
+.navbar-nav li a:hover, .navbar-nav li a:focus {
+    color: black !important;
+}
+
+.navbar-brand li a:hover, .navbar-brand li a:focus {
+    color: black !important;
+}
