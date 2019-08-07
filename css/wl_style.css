@@ -1,0 +1,28 @@
+h1{
+    color:lightseagreen;
+    font-family: 'Times New Roman', Times, serif;
+
+    
+}
+h2{ color:lightseagreen;
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+
+body{  
+    background-color: #f4f4f4;
+}
+
+.container{
+    background-color: white;
+}
+
+.navbar-brand{
+    background-color: lightseagreen; 
+    font-weight: bolder;
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+img{
+    max-width: 100%
+}
