@@ -13,9 +13,7 @@ body{
     background-color: #f4f4f4;
 }
 
-.container{
-    background-color: white;
-}
+
 
 .navbar-brand{
     background-color: lightseagreen; 
@@ -32,10 +30,82 @@ img{
     
   }
 
+ 
+ /*Bar Items*/
 .navbar-nav li a:hover, .navbar-nav li a:focus {
     color: black !important;
+    
+    
 }
 
-.navbar-brand li a:hover, .navbar-brand li a:focus {
+/*Home Icon*/
+.navbar-brand:hover {
     color: black !important;
+    background-color:lightseagreen !important;
+    
 }
+
+.col-sm-7{
+    background-color: white;   
+    margin-top: 5%;
+    margin-bottom: 2%;
+    margin-right: 2%;
+    margin-left: 2%; 
+
+    padding-top:2%;
+    padding-bottom: 2%;
+    padding-left:2%;
+    padding-right: 2%;
+}
+
+.col-sm-4{
+    background-color: white;  
+ 
+    margin-top: 5%;
+    margin-bottom: 2%;
+    margin-right: 1%;
+    margin-left: 1%; 
+
+    padding-top:2%;
+    padding-bottom: 2%;
+    padding-left:2%;
+    padding-right: 2%;
+}
+
+.navbar-inverse {
+    background-color: white;
+    border-color: white;
+}
+
+.data-table{
+    background-color: white;
+
+    margin-top: 5%;
+    margin-bottom: 2%;
+    margin-right: 1%;
+    margin-left: 1%; 
+
+    padding-top:2%;
+    padding-bottom: 2%;
+    padding-left:2%;
+    padding-right: 2%;
+}
+
+/*some code I got off stackover flow to remove table borders*/
+.table th, .table td {
+    border-top: none !important;
+    border-left: none !important;
+}
+.fixed-table-container {
+    border:0px;
+}
+.table th {
+    border-bottom: none !important;
+}
+.table:last-child{
+  border:none !important;
+} 
+
+/*some code I got off stackover flow to remove table borders*/
+
+
