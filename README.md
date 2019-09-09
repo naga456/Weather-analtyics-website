@@ -5,4 +5,7 @@ Link to code: https://github.com/naga456/Weather-analtyics-website
 
 Link to demo: https://naga456.github.io/Weather-analtyics-website/
 
+Tools/Languages:
+HTML, CSS, Bootstrap, Visual Studio Code
+
 
